@@ -15,5 +15,7 @@ For homeword part2, I deployed a firebase chat app, the link is [here](http://fr
 
 There is a demo video demonstrated the web app. This video can be found in the demo directory.
 
+Trello link is [here](https://trello.com/b/a2HaCcz3/lijun-xiao-resume-website "https://trello.com/b/a2HaCcz3/lijun-xiao-resume-website")
+
 
 
