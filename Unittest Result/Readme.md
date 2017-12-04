@@ -9,6 +9,8 @@ The excel file can be viewed via the following link.
 
 https://docs.google.com/a/bu.edu/spreadsheets/d/1HnJ4JN1f8I43pu4VIBcqPcyePhKKmA2NzIRKfjPWX2g/edit?usp=drive_web
 
+or you can also find the excel file in this repository.
+
 
 ### Task 2  Automated Test
 
